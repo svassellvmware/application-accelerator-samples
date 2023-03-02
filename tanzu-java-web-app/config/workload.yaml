@@ -21,3 +21,4 @@ spec:
       url: https://github.com/svassellvmware/application-accelerator-samples
       ref:
         branch: main
+    subPath: tanzu-java-web-app
